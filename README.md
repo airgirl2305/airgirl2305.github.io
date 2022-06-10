@@ -10,17 +10,17 @@
 - ⚡ Fun fact: ...
 -->
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://airgirl2305.github.io)
-[![website](./img/globe-dark.svg)](https://airgirl2305.github.io)
+[![website](img/globe-light.svg)](https://airgirl2305.github.io)
+[![website](img/globe-dark.svg)](https://airgirl2305.github.io)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AirGirl2305#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AirGirl2305#gh-dark-mode-only)
+[![website](img/twitter-light.svg)](https://twitter.com/AirGirl2305#gh-light-mode-only)
+[![website](img/twitter-dark.svg)](https://twitter.com/AirGirl2305#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-dark-mode-only)
+[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-light-mode-only)
+[![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/kheda-askhabova/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/k.airgirl/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/k.airgirl/r#gh-dark-mode-only)
+[![website](img/instagram-light.svg)](https://www.instagram.com/k.airgirl/#gh-light-mode-only)
+[![website](img/instagram-dark.svg)](https://www.instagram.com/k.airgirl/r#gh-dark-mode-only)
 
 ### Languages and Tools:
 
