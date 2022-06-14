@@ -1,0 +1,40 @@
+@import src/variables
+
+.footer
+  margin: 0 auto
+  margin-top: 50px
+  padding-top: 30px
+  height: 250px
+  position: relative
+  bottom: 0px
+
+  .container
+    max-width: 1320px
+    background-color: $secondaryColor
+    display: flex
+    justify-content: space-around
+    font-family: $fontMedium
+
+  ul
+    padding-left: 10px
+
+  li
+    list-style: none
+
+  a
+    text-decoration: none
+    color: $darkColor
+    line-height: 30px
+    font-size: $h6
+    @include primaryFont
+
+  &__social
+    margin-top: 0px
+    width: 20%
+
+    ul
+      display: flex
+      justify-content: space-between
+
+    img
+      width: 40px
